@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://mohit:smwpro@smw.lpc4d.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret":"myApp"
+}
